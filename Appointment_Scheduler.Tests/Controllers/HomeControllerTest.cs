@@ -1,7 +1,4 @@
-﻿using Appointment_Scheduler;
-using Appointment_Scheduler.Controllers;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Web.Mvc;
+﻿
 
 namespace Appointment_Scheduler.Tests.Controllers
 {

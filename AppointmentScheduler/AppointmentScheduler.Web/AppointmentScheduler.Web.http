@@ -1,0 +1,6 @@
+@AppointmentScheduler.Web_HostAddress = http://localhost:5062
+
+GET {{AppointmentScheduler.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
